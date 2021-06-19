@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+[![1eif's GitHub stats](https://github-readme-stats.vercel.app/api?username=1eif&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1eif/1eif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
