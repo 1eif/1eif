@@ -1,5 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=1eif&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)" />
+
 ### Hi there 👋 
-[![1eif's GitHub stats](https://github-readme-stats.vercel.app/api?username=1eif&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- [📝Blog](https://blog.laufan.cn)
+
 
 <!--
 **1eif/1eif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
